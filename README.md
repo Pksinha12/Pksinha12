@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pksinha12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning .C++ and Data Structures..
-- 💞️ I’m looking to collaborate on .C++ Problems..
-- 📫 How to reach me .send me an email at psinha_be20@thapar.edu
+- 👀 I’m interested in problem solving, machine learning and web application development using django.
+- 🌱 I’m currently learning C/C++, Python, Java, Data Structures, Algorithms, and many more...
+- 💞️ I’m looking to collaborate on these skills and open to work.
+- 📫 How to reach me? Send me an email at psinha_be20@thapar.edu
                                             or
                        follow me on instagram @pranjalkr.sinha12
                                             or
