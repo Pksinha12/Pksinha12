@@ -2,9 +2,7 @@
 - 👀 I’m interested in problem solving, machine learning and web application development using django.
 - 🌱 I’m currently learning C/C++, Python, Java, Data Structures, Algorithms, and many more...
 - 💞️ I’m looking to collaborate on these skills and open to work.
-- 📫 How to reach me? Send me an email at psinha_be20@thapar.edu
-                                            or
-                       follow me on instagram @pranjalkr.sinha12
+- 📫 How to reach me? Send me an email at pranjalkr.sinha12@gmail.com
                                             or
                        follow me on LinkedIn https://www.linkedin.com/in/pranjal-sinha-9b0686177
                          
