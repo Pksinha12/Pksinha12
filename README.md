@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kumar Sinha</h1>
-<h3 align="center">Python Developer, Data Analyst</h3>
+<h3 align="center">Problem Solver, Python Developer, Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pksinha12&label=Profile%20views&color=0e75b6&style=flat" alt="pksinha12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pksinha12" alt="pksinha12" /></a> </p>
 
-- 💬 Ask me about **C++, C, Python, Django, YOLOv8**
+- 🔭 I’m currently working in **Techlilve Solutions**
+
+- 🌱 I’m currently exploring **Python and Data Analysis**
+
+- 💬 Ask me about **C++, C, Python, Django, YOLOv8, Streamlit,**
 
 - 📫 How to reach me **pranjalkr.sinha12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranjalkumarsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjalkumarsinha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pranjalkrsinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranjalkrsinha" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pranjalsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranjalsinha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pksinha12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pksinha12" height="30" width="40" /></a>
 </p>
 
