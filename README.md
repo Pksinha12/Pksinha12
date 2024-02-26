@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kumar Sinha</h1>
 <h3 align="center">Problem Solver, Python Developer, Data Analyst</h3>
 
-- 🔭 I’m currently working in **Techlilve Solutions**
+- 🔭 I’m currently working in **Techlive Solutions**
 
 - 🌱 I’m currently exploring **Python and Data Analysis**
 
